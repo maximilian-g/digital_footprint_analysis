@@ -1,0 +1,38 @@
+[
+  {
+    "link": "https://www.googleapis.com/drive/v3/files/15jaagrIA5i8vq19TSsbO21acoTWablnh?alt=media",
+    "type": "video",
+    "auth_data": {
+      "type": "TOKEN",
+      "token_type": "Bearer",
+      "token": ""
+    },
+    "additional_info": {
+      "file_name": "probabilistic_modelling.mp4"
+    }
+  },
+  {
+    "link": "https://www.googleapis.com/drive/v3/files/1PvfrmqfsIvHCUXCDmS8ZODBLWmfNdVwR?alt=media",
+    "type": "video",
+    "auth_data": {
+      "type": "TOKEN",
+      "token_type": "Bearer",
+      "token": ""
+    },
+    "additional_info": {
+      "file_name": "system_oriented_analysis_and_informational_modelling.mp4"
+    }
+  },
+  {
+    "link": "https://www.googleapis.com/drive/v3/files/1IoP0fsZHebx1cCErycY3IxcNL5cN3LCO?alt=media",
+    "type": "video",
+    "auth_data": {
+      "type": "TOKEN",
+      "token_type": "Bearer",
+      "token": ""
+    },
+    "additional_info": {
+      "file_name": "factographical_information_analysis.mp4"
+    }
+  }
+]
