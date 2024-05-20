@@ -1,5 +1,26 @@
 [
   {
+    "link": "https://drive.usercontent.google.com/u/0/uc?id=1ZoBoWJdfHvRVXstyMpt2ZSBu_uuvsHAl&export=download",
+    "type": "document",
+    "additional_info": {
+      "file_name": "probabilistic_modelling_pres.pdf"
+    }
+  },
+  {
+    "link": "https://drive.usercontent.google.com/u/0/uc?id=184jIa_5_bZ88Qe4Ir28blZ234ztrVV1k&export=download",
+    "type": "document",
+    "additional_info": {
+      "file_name": "factographical_information_analysis_pres.pdf"
+    }
+  },
+  {
+    "link": "https://drive.usercontent.google.com/u/0/uc?id=1Vuhx_ZBV4bKp9UjNBQrVDTn2ffdSyAiH&export=download",
+    "type": "document",
+    "additional_info": {
+      "file_name": "system_oriented_analysis_and_informational_modelling_pres.pdf"
+    }
+  },
+  {
     "link": "https://www.googleapis.com/drive/v3/files/15jaagrIA5i8vq19TSsbO21acoTWablnh?alt=media",
     "type": "video",
     "auth_data": {

@@ -71,13 +71,23 @@ def extract_text_from_presentation(path):
     return text
 
 
+class ExtractedTextHolder:
+    def __init__(self):
+        self.extracted_text = ""
+
+    def extract_text_func(self, text, current_transformation_matrix,
+                          text_matrix, font_dictionary, font_size):
+        if text is not None and len(text.strip()) > 0:
+            self.extracted_text = self.extracted_text.strip() + " " + text.strip()
+
+
 def get_txt_from_pdf(pdf_path):
-    fullText = ""
-    # Load the PDF
+    # Load your PDF
+    holder = ExtractedTextHolder()
     pdf_reader = PdfReader(pdf_path)
     for page in pdf_reader.pages:
-        fullText = fullText + page.extract_text() + "\n\n"
-    return fullText
+        page.extract_text(visitor_text=holder.extract_text_func) + "\n\n"
+    return holder.extracted_text
 
 
 def get_txt_from_doc(doc_path):

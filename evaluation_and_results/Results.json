@@ -64,6 +64,13 @@
       "random distribution could",
       "probability random probabilistic",
       "random distribution probabilistic"
+    ],
+    "associated_objects": [
+      {
+        "id": "663f15afd9798a05aae49f74",
+        "linked_by_label": "keywords",
+        "score": 0.7761116645189118
+      }
     ]
   },
   {
@@ -116,6 +123,13 @@
       "system analysis description",
       "system analysis slide",
       "system slide description"
+    ],
+    "associated_objects": [
+      {
+        "id": "663f15b0d9798a05aae49f76",
+        "linked_by_label": "topics",
+        "score": 0.6172262973618705
+      }
     ]
   },
   {
@@ -208,6 +222,386 @@
       "research may find",
       "research may also",
       "research may networks"
+    ],
+    "associated_objects": [
+      {
+        "id": "663f15b0d9798a05aae49f75",
+        "linked_by_label": "topics",
+        "score": 0.5363960113960113
+      }
+    ]
+  },
+  {
+    "_id": "663f15afd9798a05aae49f74",
+    "link": "https://drive.usercontent.google.com/u/0/uc?id=1ZoBoWJdfHvRVXstyMpt2ZSBu_uuvsHAl&export=download",
+    "type": "document",
+    "created_at": "datetime.datetime(2024, 5, 11, 9, 52, 31)",
+    "annotated": true,
+    "additional_info": {
+      "file_name": "probabilistic_modelling_pres.pdf"
+    },
+    "keywords": [
+      "probabilistic model help",
+      "probabilistic model different",
+      "probabilistic models",
+      "basic probabilistic models",
+      "probabilistic models come",
+      "lecture probabilistic modeling"
+    ],
+    "named_entities": {
+      "PERSON": [
+        "Muller",
+        "Borel",
+        "Непрерывные величины",
+        "Alexander Boukhanovsky",
+        "М Autoregression",
+        "Markov",
+        "А или В"
+      ],
+      "ORG": [
+        "Monte Carlo",
+        "EOV",
+        "ARMA",
+        "В",
+        "Heteroscedasticity",
+        "Eigenbasis",
+        "Simulation of Gaussian Random Variables 1",
+        "Time Series Dynamics",
+        "Natural",
+        "Monte Carlo Method Generative",
+        "Translational Research",
+        "Central",
+        "Distribution density Distribution & Survival",
+        "w henever",
+        "https://msplatform.actcognitive.org/corona/ Contact"
+      ],
+      "WORK_OF_ART": [
+        "Mathematical"
+      ],
+      "PRODUCT": [
+        "Markov",
+        "Model",
+        "Б Б B A",
+        "Monte Carlo Method"
+      ],
+      "FAC": [
+        "https://niuitmo -"
+      ],
+      "DATE": [
+        "Х – day"
+      ]
+    },
+    "summary": "Lecture 5. Probabilistic Modeling Alexander Boukhanovsky Methodology of Translational Research. The lecture will focus on basic probabilistic models of random events, quantities and functions. It will also cover Generative Models and Monte Carlo, Composite objects and simulation, Conclusions and Homework. Model of a random function, process, series (2 /2) Stationarity – maintaining the conditions of a statistical experiment Characteristics definition: trajectories or sections? Ergodicity and its consequence : Trajectory Section Terrible news : there are not so many stationary processes in the world. Find the source of randomness! Any probabilistic descriptions could be reduced to random events. Choose generative method for data reproduction by the same law as a dataset. Create a one - dimensional sampl e size 65+Х, where Х – day of your birth. Explain, why you can apply probability modeling here. of probability: Social behaviour 3) Modeling method : Inverse function method. 4) Result ( paste the graph ) Thank you for your attention! boukhanovsky@mail.ifmo.ru www. i t mo.r",
+    "topics": [
+      "random • probability",
+      "random – distribution",
+      "random distribution –",
+      "random distribution probability",
+      "random distribution •"
+    ],
+    "associated_objects": [
+      {
+        "id": "661931f5d172007aa8b18204",
+        "linked_by_label": "keywords",
+        "score": 0.7761116645189118
+      }
+    ]
+  },
+  {
+    "_id": "663f15b0d9798a05aae49f75",
+    "link": "https://drive.usercontent.google.com/u/0/uc?id=184jIa_5_bZ88Qe4Ir28blZ234ztrVV1k&export=download",
+    "type": "document",
+    "created_at": "datetime.datetime(2024, 5, 11, 9, 52, 31)",
+    "annotated": true,
+    "additional_info": {
+      "file_name": "factographical_information_analysis_pres.pdf"
+    },
+    "keywords": [
+      "research area sources",
+      "modern research trends",
+      "research field papers",
+      "matters research field",
+      "sources research area",
+      "research field introduction"
+    ],
+    "named_entities": {
+      "PERSON": [
+        "Paul",
+        "Roberto",
+        "Nicola",
+        "Luís C. C.",
+        "ller",
+        "Тренды в научных исследованиях",
+        "Humbert",
+        "Alexandra Klimova",
+        "Mendeley",
+        "Petr Chunaev",
+        "Davide",
+        "Emmanuel }",
+        "Peter Smith",
+        "Klavdiya Bochenina",
+        "González",
+        "Liang",
+        "Murillo Guimarães",
+        "Mendeley Mendeley",
+        "bibliograph",
+        "scietific lacuna",
+        "Anton",
+        "tsitsulin2018ver se",
+        "Karras"
+      ],
+      "GPE": [
+        "United Kingdom",
+        "VOSViewer",
+        "Rio Grande",
+        "United States",
+        "Siewann",
+        "PAZOS",
+        "Spain",
+        "St Petersburg",
+        "Italy",
+        "China",
+        "Brazil"
+      ],
+      "ORG": [
+        "интеллекту",
+        "SIAM",
+        "Digital Transformation Field",
+        "Nanyang Technological University",
+        "Humanities and Social Sciences",
+        "CORE",
+        "NIPS",
+        "Felipe , Universidade Federal",
+        "Universidade Federal",
+        "University of the Basque Country • Amoroso",
+        "ICML",
+        "Agricultural Sciences",
+        "International Conference on Computational Science",
+        "https://www.cwts.nl",
+        "KDD",
+        "Universidade de São Paulo •",
+        "ZHAO",
+        "Journal of Machine Learning Research",
+        "the University of Leiden",
+        "Russian Science Foundation Research",
+        "the Center for Science and Technology Studies",
+        "National Institute for Nuclear Physics • Bellotti",
+        "Computer and Systems Sciences",
+        "National Institute for Nuclear Physics • Carneiro",
+        "Clarivate Analytics Analysis",
+        "University of Southern California • Cheong",
+        "Mathematics, Computer and Systems Thinking / Network",
+        "J S 2 Physics and Space Sciences",
+        "Scopus /",
+        "Panagiotis",
+        "this Research Area 4",
+        "Google",
+        "Big Data",
+        "Marianna , National Institute for Nuclear Physics • Lamb",
+        "Search",
+        "PNAS Verify",
+        "Digital",
+        "искусственному",
+        "Research Area Search",
+        "CrossRef",
+        "SILVA TC 6",
+        "Mottin",
+        "Bibliometric Networks Methods",
+        "EMMERT",
+        "Discover",
+        "Web of Science Categories",
+        "CIKM",
+        "JMLR",
+        "Clarivate Analytics",
+        "Google Scholar",
+        "Scopus"
+      ],
+      "DATE": [
+        "2007 - 2017",
+        "2019",
+        "2018",
+        "next year",
+        "the last five years",
+        "2012",
+        "annually",
+        "2017 years"
+      ],
+      "NORP": [
+        "Сomplex",
+        "Sul",
+        "Павел",
+        "countries/"
+      ],
+      "PRODUCT": [
+        "F O X 7",
+        "SciVal",
+        "Citation Count",
+        "Citation"
+      ],
+      "LOC": [
+        "Research Area Countries/",
+        "the Research Area",
+        "this Research Area"
+      ],
+      "WORK_OF_ART": [
+        "MS Word • Full - text",
+        "MS Word • Part of “",
+        "Experiments ( Experimental Study , Comparative Study"
+      ],
+      "EVENT": [
+        "World Wide Web Conference"
+      ]
+    },
+    "summary": "Methods of Factographic Information Analysis Dr Alexandra Klimova Dr Klavdiya Bochenina St Petersburg, 2020 Discover research field. What country published the most papers on this research area? Which authors wrote about this topic in the last five years? What are the modern research trends here? Web of Science Categories: Digital transformations: clusters Artificial Intelligence Big Data Internet of Things Machine Learning Technology Digital economy Education Organization 21 Digital transformation: trends 22 Analysis of keywords co - occurrence Factual information review • Expected Result (review article, conference paper, chapter of scientific report) Mendeley is a plug - in for MS Word. It adds bibliography with formatting according to specific style. It can also be used to create a reference list. It is recommended to use analytical tools for evaluation and planning research activities. You can use reference management software ( Mendeley) ation technologies and systems e k r x Control theory f l s yz Third level: based on your choice Example : Peter Smith (Mathematics, Computer and Systems Thinking / Network Technologies/ Knowledge Management Technologies) Thank you for attention!! www. ifmo.r",
+    "topics": [
+      "• research networks",
+      "• networks research"
+    ],
+    "associated_objects": [
+      {
+        "id": "661931ffd172007aa8b18206",
+        "linked_by_label": "topics",
+        "score": 0.5363960113960113
+      }
+    ]
+  },
+  {
+    "_id": "663f15b0d9798a05aae49f76",
+    "link": "https://drive.usercontent.google.com/u/0/uc?id=1Vuhx_ZBV4bKp9UjNBQrVDTn2ffdSyAiH&export=download",
+    "type": "document",
+    "created_at": "datetime.datetime(2024, 5, 11, 9, 52, 31)",
+    "annotated": true,
+    "additional_info": {
+      "file_name": "system_oriented_analysis_and_informational_modelling_pres.pdf"
+    },
+    "keywords": [
+      "systems oriented analysis",
+      "used systems oriented",
+      "basic concepts systems",
+      "modelling basic concepts",
+      "methods used systems",
+      "analysis basic concepts",
+      "analysis informational modelling",
+      "concepts processes aspects",
+      "concepts systems oriented",
+      "translational research methodology",
+      "concepts systems"
+    ],
+    "named_entities": {
+      "ORG": [
+        "SOAM",
+        "Web Ontology Language",
+        "History Internal Environment",
+        "SA",
+        "Internal and External System Description",
+        "Basic Types of Resources",
+        "Physics, Biology, Geology",
+        "Linear",
+        "Model",
+        "Information Modelling Data",
+        "Information Modelling 1",
+        "Computer Science",
+        "RDF",
+        "Ashby",
+        "External Environment",
+        "Some Methods/Means of Information Modeling 4",
+        "Synergetic",
+        "Time",
+        "ISO/IEC 2382:2015",
+        "N … System External Environment Internal Environment",
+        "Democritus",
+        "Information Modelling The ER - Model of Trains’ Schedules",
+        "Computational Science Perform the Lab Cook",
+        "System Network Topology",
+        "Unified Modeling Language",
+        "Synergy",
+        "Internal and External Environments 1",
+        "Information Modelling Informational Modeling <",
+        "System",
+        "Basic Concepts of the Systems - Oriented Analysis",
+        "UML",
+        "Information Modelling 4",
+        "Data Structure Diagram",
+        "Artificial Intelligence",
+        "Acorn 13",
+        "Basic Topologies of Structure 2",
+        "Cognitive Science",
+        "DSD",
+        "Translational Research Methodology Section 3"
+      ],
+      "PERSON": [
+        "Newton",
+        "Aristotle",
+        "Bacon",
+        "Bertalanffy",
+        "Wiener",
+        "Vole 12",
+        "Lambert",
+        "gazelle",
+        "Carp",
+        "Alexey Dukhanov",
+        "{gazelle",
+        "Bogdanov",
+        "Lotka",
+        "Plato"
+      ],
+      "LAW": [
+        "The Simple Definition A System"
+      ],
+      "NORP": [
+        "Greek",
+        "Aristotle"
+      ],
+      "DATE": [
+        "annual",
+        "the end of this year",
+        "more than 2000 years ago"
+      ],
+      "WORK_OF_ART": [
+        "The Approaches to System - Oriented Analysis and System’s Synthesis",
+        "The Method of System - Oriented Analysis 3.",
+        "The “ System",
+        "Finish"
+      ],
+      "PRODUCT": [
+        "System’s Functioning",
+        "Complex System 2",
+        "the Soup J Chop",
+        "Galileo",
+        "Web",
+        "System’s Structure 2"
+      ],
+      "EVENT": [
+        "Information Modeling 4",
+        "History System Operation",
+        "The Optner Method"
+      ],
+      "GPE": [
+        "IDEF1X",
+        "Tectological"
+      ],
+      "LOC": [
+        "Ancient Greece"
+      ],
+      "FAC": [
+        "Gazelle 9",
+        "System Complex",
+        "Pike 5"
+      ]
+    },
+    "summary": "Translational Research Methodology Section 3. System - Oriented Analysis and Informational Modelling Dr. Alexey Dukhanov St. Petersburg 2 Outline Basic Concepts of Systems - Orients Analysis and a bit of History 1 System Exploration. Structure and Relations of a System 2 Methods and Means of Systems. 3 Information Modelling 4 3 Part 1 Basic Concepts. of Systems – Oriented. Analysis and History 4 1. Object – System – Model Object ( Process ) is a real Object or Process to be learned. Systems - Oriented Analysis (SOA) is the family of concepts, methods, procedures, and technologies for the study, description, and implementation of objects or processes. The “ System ” word was used more than 2000 years ago (Ancient Greece) describes a system as a black box with inputs and outputs, and its interactions with the external environment, including other systems. Structure of a system is an organization of a set of its components and relations between them. Examples: • sequence of stations on the train route; • structure of relations between social network users; • trophic structure of lake inhabitants. heat, boar, clover, vole, snake, acorn, crucian carp. X = { man, tiger, hawk, pike,. boar,. snake, sheep }); Y = {gazelle, wheat,. clover,. vole,. acorn. R = {predator, victim }. Q V R B A S,,, = 39 Example : the Morphological Description of Micro - Ecosystem. 50 Basic Types of Resources 3. Methods and Means of Systems - Oriented Analysis Spatial ( Space ) : “relating to the position, area, and size of things” Time is “the measured or measurable period during which an action, process, or condition exists or continues” 52 Resource Analysis. tion of information in a formalized manner suitable for communication, interpretation, or processing. Information – “<information processing> knowledge concerning objects, such as facts, events, things, processes, or ideas, that within a certain context has a particular meaning” ( ISO/IEC 2382:2015( en) 59 Information Modeling 4. Information Modelling Informational Modeling (BIM) is a digital representation of physical and functional characteristics of a facility.",
+    "topics": [
+      "systems system analysis",
+      "system analysis structure",
+      "system systems analysis",
+      "system systems oriented"
+    ],
+    "associated_objects": [
+      {
+        "id": "661931fcd172007aa8b18205",
+        "linked_by_label": "topics",
+        "score": 0.6172262973618705
+      }
     ]
   }
 ]
