@@ -21,8 +21,8 @@ class DigitalFootprintDataType(Enum):
 
 
 def map_to_audio_df(df_object):
-    return Audio(id=str(df_object['_id']), link=df_object['link'],
-                 created_at=df_object['created_at'],
+    return Audio(id=str(df_object['_id']) if '_id' in df_object else None, link=df_object['link'],
+                 created_at=extract_safely(df_object, 'created_at', datetime.now().replace(microsecond=0)),
                  last_labeled_at=extract_safely(df_object, 'last_labeled_at'),
                  auth_data=extract_safely(df_object, 'auth_data'),
                  annotated=extract_safely(df_object, 'annotated'),
@@ -31,8 +31,8 @@ def map_to_audio_df(df_object):
 
 
 def map_to_video_df(df_object):
-    return Video(id=str(df_object['_id']), link=df_object['link'],
-                 created_at=df_object['created_at'],
+    return Video(id=str(df_object['_id']) if '_id' in df_object else None, link=df_object['link'],
+                 created_at=extract_safely(df_object, 'created_at', datetime.now().replace(microsecond=0)),
                  last_labeled_at=extract_safely(df_object, 'last_labeled_at'),
                  auth_data=extract_safely(df_object, 'auth_data'),
                  annotated=extract_safely(df_object, 'annotated'),
@@ -41,8 +41,8 @@ def map_to_video_df(df_object):
 
 
 def map_to_document_df(df_object):
-    return Document(id=str(df_object['_id']), link=df_object['link'],
-                    created_at=df_object['created_at'],
+    return Document(id=str(df_object['_id']) if '_id' in df_object else None, link=df_object['link'],
+                    created_at=extract_safely(df_object, 'created_at', datetime.now().replace(microsecond=0)),
                     last_labeled_at=extract_safely(df_object, 'last_labeled_at'),
                     auth_data=extract_safely(df_object, 'auth_data'),
                     annotated=extract_safely(df_object, 'annotated'),
